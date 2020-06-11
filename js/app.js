@@ -4,24 +4,24 @@ const listContent = document.querySelector(".carousel-content").querySelectorAll
 let listIndex = 0;
 
 nextImg.addEventListener("click", function() {
-    listContent[listIndex].classList.remove("visible-img");
+    listContent[listIndex].classList.remove("visible-poem");
     if (listIndex >= listContent.length -1) {
         listIndex = 0;
     } else {
         listIndex += 1
     }
-    listContent[listIndex].classList.toggle("visible-img");
+    listContent[listIndex].classList.toggle("visible-poem");
 
     console.log(listIndex)
 });
 
 prevImg.addEventListener("click", function() {
-    listContent[listIndex].classList.remove("visible-img");
+    listContent[listIndex].classList.remove("visible-poem");
     if (listIndex <= 0) {
         listIndex = listContent.length -1;
     } else {
         listIndex -= 1
     }
-    listContent[listIndex].classList.toggle("visible-img");
+    listContent[listIndex].classList.toggle("visible-poem");
     console.log(listIndex)
 });

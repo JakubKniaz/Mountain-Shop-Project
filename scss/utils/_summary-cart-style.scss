@@ -1,0 +1,132 @@
+.summary-cart-description {
+  height: 50px;
+  padding: 1rem;
+  background: $backgroundContentColor;
+  letter-spacing: 0.3rem;
+  text-align: center;
+  font: 700 3rem "Lato";
+  color: $mainTextColor;
+  span {
+    color: $accentColor;
+  }
+}
+.continue {
+  padding: 2rem;
+  background: $backgroundContentColor;
+  font: 400 2rem "Lato";
+  .fa-arrow-circle-left {
+   padding: 3rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: $accentColor;
+  }
+}
+
+.summary-cart {
+  background: white;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 300px;
+}
+
+.image-basket {
+  padding: 1.5rem;
+  height: 250px;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.basket-info {
+  background: $backgroundContentColor;
+  .prod-generaly-title {
+    font: 700 1.8rem "Lato";
+    color: $mainTextColor;
+    margin-bottom: 2rem;
+  }
+  .product-title {
+    font: 700 1.5rem "Lato";
+    color: $mainTextColor;
+    margin-bottom: 1.5rem;
+  }
+  .product-index {
+    font: 400 1.5rem "Lato";
+    color: $mainTextColor;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.trash-btn {
+  border: none;
+.fa-trash-alt {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: $accentColor;
+  }
+}
+
+.product-cost {
+  font: 700 2rem "Lato";
+  color: $mainTextColor;
+}
+
+
+.total-price-content {
+  height: 100px;
+  background-color: $backgroundContentColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .price-description {
+    font: 700 2.7rem "Lato";
+    color: $mainTextColor
+  }
+
+  .total-price {
+    font: 700 2.7rem "Lato";
+    color: $mainTextColor
+  }
+}
+
+.payment {
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $backgroundContentColor;
+  .payment-btn {
+    width: 30%;
+    height: 5rem;
+    background: $accentColor;
+    font: 400 2rem "Lato";
+    color: $menuTextColor;
+    border: none;
+    border-radius: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .summary-cart {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+  }
+  .image-basket {
+    width: 50%;
+    height: 50%;
+  }
+  .basket-info {
+    width: 70%;
+  }
+  .trash-btn {
+    margin-top: 1.5rem;
+  }
+}

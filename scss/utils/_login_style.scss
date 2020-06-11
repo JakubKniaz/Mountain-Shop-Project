@@ -1,0 +1,68 @@
+.login-main {
+  background: $backgroundColor;
+}
+
+.login-content {
+  background: $backgroundContentColor;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.form-div {
+  width: 80%;
+  height: 80%;
+  border: 1px solid black;
+  background: $footerColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  form {
+    display: flex;
+    flex-direction: column;
+    .login-input {
+      width: 70%;
+      height: 3rem;
+      border: 2px solid $accentColor;
+    }
+    .password-input {
+      width: 70%;
+      height: 3rem;
+      border: 2px solid $accentColor;
+    }
+    #login{
+      font: 700 2rem "Lato";
+      letter-spacing: 0.3rem;
+      color: $mainTextColor;
+      margin-bottom: 3rem;
+      span {
+        color: $accentColor;
+      }
+
+    }
+    #password {
+      font: 700 2rem "Lato";
+      letter-spacing: 0.3rem;
+      color: $mainTextColor;
+      span {
+        color: $accentColor;
+      }
+    }
+  }
+}
+
+.login-btn {
+  width: 100%;
+  height: 5rem;
+  background: $accentColor;
+  font: 700 2rem "Lato";
+  letter-spacing: 0.2rem;
+  color: $menuTextColor;
+  border: none;
+  border-radius: 50px;
+  margin-top: 5rem;
+}
