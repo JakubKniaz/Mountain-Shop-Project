@@ -4,7 +4,7 @@
 
 .registration-content {
   background: $backgroundContentColor;
-  height: 800px;
+  height: 120rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,50 +31,71 @@
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      display: block;
+      padding:2rem;
     }
     .address-form {
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      display: block;
+      padding: 2rem;
     }
     .name-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     .surname-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     .email-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
+    .login-input {
+      height: 3rem;
+      border: 2px solid $accentColor;
+      display: block;
+    }
+    .password-input {
+      height: 3rem;
+      border: 2px solid $accentColor;
+      display: block;
+    }
+
     .street-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     .code-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     .city-input {
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     #name {
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
-      margin-bottom: 3rem;
+      margin-top: 1.5rem;
       span {
         color: $accentColor;
       }
-
     }
     #surname {
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      margin-top: 1.5rem;
       span {
         color: $accentColor;
       }
@@ -83,6 +104,25 @@
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      margin-top: 1.5rem;
+      span {
+        color: $accentColor;
+      }
+    }
+    #login {
+      font: 700 2rem "Lato";
+      letter-spacing: 0.3rem;
+      color: $mainTextColor;
+      margin-top: 1.5rem;
+      span {
+        color: $accentColor;
+      }
+    }
+    #password {
+      font: 700 2rem "Lato";
+      letter-spacing: 0.3rem;
+      color: $mainTextColor;
+      margin-top: 1.5rem;
       span {
         color: $accentColor;
       }
@@ -99,6 +139,7 @@
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      margin-top: 1.5rem;
       span {
         color: $accentColor;
       }
@@ -107,6 +148,7 @@
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
+      margin-top: 1.5rem;
       span {
         color: $accentColor;
       }
@@ -124,4 +166,10 @@
   border: none;
   border-radius: 50px;
   margin-top: 5rem;
+}
+
+.reg-errors {
+  margin-top: 3rem;
+  font: 400 2rem "Lato";
+  color: $accentColor;
 }

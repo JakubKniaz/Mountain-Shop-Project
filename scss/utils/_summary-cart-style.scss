@@ -119,6 +119,18 @@
   }
 }
 
+.size-div {
+  font: 700 1.5rem "Lato";
+  color: $mainTextColor;
+}
+
+#number-input {
+  height: 2rem;
+  border: 1px solid $accentColor;
+  font: 700 1.7rem "Lato";
+  color: $mainTextColor;
+}
+
 .empty-text {
   font: 400 3rem "Lato";
   color: $accentColor;
@@ -141,5 +153,11 @@
   }
   .trash-btn {
     margin-top: 1.5rem;
+  }
+  #number-input {
+    margin-top: 1rem;
+  }
+  .size-div {
+    margin-top: 1rem;
   }
 }

@@ -76,16 +76,16 @@
 }
 
 .dropdown-header {
-  font: 400 2rem "Lato";
-  background: navy;
-  margin-top: 0.8rem;
+  font: 400 2rem "Lato" !important;
+  margin-top: 0.8rem !important;
+  color: $menuTextColor !important;
 }
 
 
 .dropdown-menu {
-  width: 25rem;
-  height: 25rem;
-  background: navy;
+  width: 21rem;
+  height: 21rem;
+  background: navy !important;
   left: 0;
   top: 7.5rem;
   border: none;
@@ -308,4 +308,3 @@
     }
   }
 }
-

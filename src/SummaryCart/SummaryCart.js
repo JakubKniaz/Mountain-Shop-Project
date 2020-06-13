@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
 import { ShopContext } from '../context/shop-context';
 import CartProduct from './CartProduct';
-import BasketItem from "../Basket/BasketItem/BasketItem";
 
 const SummaryCart = (props) => {
     const shopItems = useContext(ShopContext).shopItems;
@@ -57,7 +56,7 @@ const SummaryCart = (props) => {
     };
 
     const returnToShop = () => {
-            props.history.go(-2)
+        props.history.go(-2)
     };
 
     const totalPrice = calculateTotalPrice(shopItems);

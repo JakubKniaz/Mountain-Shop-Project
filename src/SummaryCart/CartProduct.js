@@ -24,8 +24,8 @@ const CartProduct = (props) => {
                 <h4 className="product-index">Index: {props.product.index}</h4>
             </div>
             <div className="product-cost">{props.product.price} zł</div>
-            <div>Rozmiar: {props.product.size}</div>
-            <input type="number" min="1" value={props.product.quantity} onChange={onQuantityChange.bind(null, props.product.id)} />
+            <div className="size-div">Rozmiar: {props.product.size}</div>
+            <input id="number-input" type="number" min="1" value={props.product.quantity} onChange={onQuantityChange.bind(null, props.product.id)} />
             <div className="trash-content">
                 <button onClick={onRemoveItem.bind(null,props.product.id)} className="trash-btn"><i className="fas fa-trash-alt"></i></button>
             </div>
