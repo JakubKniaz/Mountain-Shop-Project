@@ -1,25 +1,32 @@
 .summary-cart-description {
   height: 50px;
-  padding: 1rem;
+  padding: 2rem;
   background: $backgroundContentColor;
   letter-spacing: 0.3rem;
   text-align: center;
-  font: 700 3rem "Lato";
+  font: 700 2.5rem "Lato";
   color: $mainTextColor;
+  margin-bottom: 2rem;
   span {
     color: $accentColor;
   }
 }
-.continue {
-  padding: 2rem;
+
+.basket-main {
   background: $backgroundContentColor;
-  font: 400 2rem "Lato";
-  .fa-arrow-circle-left {
-   padding: 3rem;
-    font-size: 3.5rem;
-    font-weight: bold;
-    color: $accentColor;
-  }
+}
+
+.continue-btn {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 2.5rem;
+  border: none;
+  width: 30rem;
+  height: 2.5rem;
+  color: $accentColor;
+  background: $backgroundContentColor;
+  margin-bottom: 3rem;
+  margin-top: 4rem;
 }
 
 .summary-cart {
@@ -65,10 +72,10 @@
 
 .trash-btn {
   border: none;
-.fa-trash-alt {
-  font-size: 3.5rem;
-  font-weight: bold;
-  color: $accentColor;
+  .fa-trash-alt {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: $accentColor;
   }
 }
 
@@ -110,6 +117,12 @@
     border: none;
     border-radius: 50px;
   }
+}
+
+.empty-text {
+  font: 400 3rem "Lato";
+  color: $accentColor;
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {

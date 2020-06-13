@@ -1,6 +1,5 @@
 .header {
   background-image: url("../images/background-nav3.jpg");
-  //background: midnightblue;
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 5px 25px #00000029;
@@ -25,8 +24,7 @@
     letter-spacing: 0.5rem;
   }
   .nav-item {
-    color: #08A6E4;
-    padding: 1.5rem;
+    padding: 1rem;
     a {
       font: 400 1.8rem "Lato";
       opacity: 1;
@@ -47,11 +45,10 @@
       }
       a {
         color: $menuTextColor;
-        font: 700 2rem "Lato";
+        font: 700 1.5rem "Lato";
         span {
           color: $accentColor;
         }
-
         &:after {
           display: none;
         }
@@ -60,11 +57,30 @@
   }
 }
 
+.fa-shopping-basket {
+  font-size: 2rem;
+  font-weight: bold;
+  color: $menuTextColor;
+  &:hover {
+    color: $accentColor;
+  }
+}
+
+.fa-history {
+  font-size: 2rem;
+  font-weight: bold;
+  color: $menuTextColor;
+  &:hover {
+    color: $accentColor;
+  }
+}
+
 .dropdown-header {
-  font: 400 1.5rem "Lato";
-  color: navy;
+  font: 400 2rem "Lato";
+  background: navy;
   margin-top: 0.8rem;
 }
+
 
 .dropdown-menu {
   width: 25rem;
@@ -79,12 +95,14 @@
 .dropdown-item {
   padding: 1rem;
   letter-spacing: 0.2rem;
+  background: red;
 }
 
 .carousel {
   background-image: url("../images/poem-bg.jpg");
   background-size: cover;
 }
+
 
 .carousel-content {
   display: flex;
@@ -290,3 +308,4 @@
     }
   }
 }
+

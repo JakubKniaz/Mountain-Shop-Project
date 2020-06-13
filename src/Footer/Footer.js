@@ -1,5 +1,5 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import Logo from '../images/logo.jpg'
 
 const Footer = props => {
 
@@ -23,7 +23,7 @@ const Footer = props => {
                     </div>
                 </div>
                 <div className="logo-footer">
-                    <a href="#"><img src="/src/images/logo.jpg" alt="shop-logo" title="mountain-shop logo"/></a>
+                    <a ><img src={Logo} alt="shop-logo" title="mountain-shop logo"/></a>
                 </div>
             </div>
         </footer>

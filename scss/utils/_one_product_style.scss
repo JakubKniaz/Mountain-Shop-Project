@@ -70,6 +70,9 @@
   width: 20rem;
   height: 5rem;
   border-radius: 50px;
+  &:hover {
+    box-shadow: inset 0 1px 20px 1px rgba(0,0,0,0.5);
+  }
 }
 .product-form {
   display: flex;
@@ -89,4 +92,16 @@
   .product-info {
     width: 90%;
   }
+}
+
+.back-arrow {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 2.5rem;
+  border: none;
+  width: 20rem;
+  height: 5rem;
+  color: $accentColor;
+  background: $backgroundContentColor;
+  margin-bottom: 2rem;
 }

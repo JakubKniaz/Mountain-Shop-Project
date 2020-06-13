@@ -1,11 +1,11 @@
 import React from "react";
 
-const QuantityForm = () => {
+const QuantityForm = (props) => {
     return (
         <div>
-            <form className="quantity">
+            <form className="quantity" >
                 <label className="guantity">Ilość: </label>
-                <select name="multiple" id="multiple">
+                <select name="multiple" id="multiple" onChange={props.onSelectionChange}>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>

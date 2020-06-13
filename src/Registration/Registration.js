@@ -1,5 +1,5 @@
 import React from 'react';
-import {useState, useEffect} from 'react'
+import {useState} from 'react'
 const Registration = () => {
 
     const initialState = {
@@ -80,8 +80,8 @@ const Registration = () => {
             }
         })
             .then(response => {
-                    console.log(response);
-                    setData(initialState)
+                console.log(response);
+                setData(initialState)
             })
     };
 
@@ -92,10 +92,9 @@ const Registration = () => {
             password: data.password,
             returnSecureToken: false
         };
-        console.log(authData);
-        // postUser(authData)
+
         if (validate ()) {
-            postUser()
+            postUser(authData);
         }
     };
     return (

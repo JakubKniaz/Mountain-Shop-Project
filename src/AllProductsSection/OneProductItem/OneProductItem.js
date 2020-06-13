@@ -1,7 +1,6 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 
 const OneProductItem = props => {
-
 
     return (
         <div className="main-products col-sm-6 col-md-4">

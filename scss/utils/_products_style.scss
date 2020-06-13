@@ -1,10 +1,15 @@
 .section-products {
   padding: 1rem;
+  background: $footerColor;
   .main-title {
     text-align: center;
     font: 700 3rem "Lato";
-    color: $mainTextColor;
+    color: black;
     padding: 4rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    background-image: url("../images/products-title-bg.jpg");
+    background-size: cover;
   }
   .main-products {
     display: inline-block;

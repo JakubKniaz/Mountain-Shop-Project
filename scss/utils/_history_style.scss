@@ -1,0 +1,35 @@
+.history-content {
+  background: $backgroundContentColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: auto;
+  padding: 3rem;
+  .history-title {
+    font: 700 2.5rem "Lato";
+    text-align: center;
+    color: $mainTextColor;
+    padding: 3rem;
+    span {
+      color: $accentColor;
+    }
+  }
+  ul {
+    list-style: none;
+    li {
+      h4 {
+        font: 400 1.5rem "Lato";
+        color: $mainTextColor;
+      }
+
+    }
+  }
+}
+
+.history-info {
+  margin-top: 3rem;
+  padding: 2rem;
+  width: 70%;
+  border: 1px solid black;
+}

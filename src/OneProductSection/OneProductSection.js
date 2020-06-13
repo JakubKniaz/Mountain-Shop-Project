@@ -1,8 +1,16 @@
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, useState, useContext} from 'react';
+import QuantityForm from './QuantityForm/QuantityForm';
+import BasketButton from './BasketButton/BasketButton';
+import ShoeSizeForm from './ShoesSizeForm/ShoesSizeForm';
+import ClothesSizeForm from './ClothesSizeForm/ClothesSizeForm';
+import { ShopContext } from '../context/shop-context'
 
 
 const OneProductSection = props => {
+    const addToBasket = useContext(ShopContext).shopAddToBasket;
     const [product, setProduct] = useState([]);
+    const [size, setSize] = useState('S');
+    const [quantity, setQuantity] = useState(1);
 
     useEffect(() => {
         console.log(props.history)
@@ -21,6 +29,26 @@ const OneProductSection = props => {
         props.history.goBack();
     };
 
+    const onBtnClick = event => {
+        const basketItem = {
+            size: size,
+            quantity: quantity,
+            id: props.match.params.index,
+            ...product
+        }
+
+        console.log(basketItem);
+        addToBasket(basketItem);
+    }
+
+    const onSizeChange = event => {
+        setSize(event.target.value);
+    }
+
+    const onQuantityChange = event => {
+        setQuantity(event.target.value);
+    }
+
     return (
         <section className="one-product-main">
             <div className="product container">
@@ -29,7 +57,7 @@ const OneProductSection = props => {
                 </div>
                 <div className="product-info">
                     <div>
-                        <button className="back-arrow" onClick={onReturn}><i className="fas fa-arrow-circle-left"></i>Powrót</button>
+                        <button className="back-arrow" onClick={onReturn}><i className="fas fa-arrow-circle-left"></i> Powrót</button>
                         <h2 className="prod-generaly-title">{product.name}</h2>
                         <h3 className="product-title">{product.secondName}</h3>
                         <h4 className="product-index">Index: {product.index}</h4>
@@ -39,6 +67,11 @@ const OneProductSection = props => {
                             ultricies posuere. Etiam libero sapien, aliquam id nunc id, pharetra lobortis felis. Aenean luctus
                             mattis quam, at bibendum nibh pulvinar ut. In id ex hendrerit arcu condimentum tincidunt. Donec quis
                             pharetra purus. In id eros metus.</p>
+                        <div className="product-form">
+                            <ClothesSizeForm onSelectionChange={onSizeChange}/>
+                            <QuantityForm onSelectionChange={onQuantityChange}/>
+                            <BasketButton onButtonClick={onBtnClick}/>
+                        </div>
                     </div>
                 </div>
             </div>
