@@ -1,7 +1,8 @@
-import React from 'react';
-import {useState} from 'react'
-const Registration = () => {
+import React, {useState, useContext} from 'react';
+import { ShopContext } from '../context/shop-context';
 
+const Registration = ( props ) => {
+    const login = useContext(ShopContext).shopLogin;
     const initialState = {
         name: "",
         surname: "",
@@ -26,7 +27,7 @@ const Registration = () => {
         })
     };
 
-    const validate = () => {
+    const validate = ( ) => {
         const errors = [];
         let isValidate = true;
 
@@ -50,9 +51,9 @@ const Registration = () => {
             isValidate = false;
             errors.push(" Login powinien zawierać co najmniej 3 litery!")
         }
-        if (data.password.length < 5) {
+        if (data.password.length < 6) {
             isValidate = false;
-            errors.push(" Hasło powinno zawierać co najmniej 5 liter!")
+            errors.push(" Hasło powinno zawierać co najmniej 6 liter!")
         }
         if (data.street.length < 3) {
             isValidate = false;
@@ -79,9 +80,18 @@ const Registration = () => {
                 "Content-Type": "application/json"
             }
         })
+            .then(response => response.json())
             .then(response => {
-                console.log(response);
-                setData(initialState)
+                if ( response.error && response.error.code >= 400 && response.error.code <= 500 ) {
+                    throw new Error(response.error.message)
+                } else {
+                    setData(initialState);
+                    login(response.localId);
+                    props.history.replace('/')
+                }
+            })
+            .catch( err => {
+                setErrors(err.message);
             })
     };
 
@@ -131,7 +141,7 @@ const Registration = () => {
                         <button type="submit" className="registration-btn">Zarejestruj się!</button>
                     </form>
                 </div>
-                <h2>{errors}</h2>
+                <h2 className="reg-errors">{errors}</h2>
             </div>
         </section>
     )

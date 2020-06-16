@@ -7,16 +7,15 @@ const Login = (props) => {
         email: "",
         password: ""
     };
-    const [data, setData] = useState([]);
-    const [errors, setErrors] = useState(initialState);
+    const [data, setData] = useState(initialState);
+    const [errors, setErrors] = useState([]);
 
     const changeData = (e) => {
-        console.log(e.target.email, e.target.value);
         e.persist();
         setData(prevData => {
             return {
                 ...prevData,
-                [e.target.email]: e.target.value
+                [e.target.name]: e.target.value
             }
         })
     };
@@ -32,35 +31,31 @@ const Login = (props) => {
         })
             .then(response => response.json())
             .then(response => {
-                setData(initialState);
-                login(response.userId);
-                props.history.replace('/')
+
+                if ( response.error && response.error.code >= 400 && response.error.code <= 500 ) {
+                    throw new Error(response.error.message)
+                } else {
+                    setData(initialState);
+                    login(response.localId);
+                    props.history.replace('/')
+                }
+
             })
             .catch( err => {
-                setErrors(err.message)
-                console.log(err.message)
-
+                let errMessage = '';
+                if (err.message === 'EMAIL_NOT_FOUND' ) {
+                    errMessage = 'Nieprawidłowy adres e-mail!'
+                } else if ( err.message === 'INVALID_EMAIL' ) {
+                    errMessage = 'Nie wprowadzono adresu e-mail!'
+                } else if ( err.message === 'MISSING_PASSWORD' ) {
+                    errMessage = 'Nie wprowadzono hasła!'
+                } else if ( err.message === 'INVALID_PASSWORD' ) {
+                    errMessage = 'Nieprawidłowe hasło!'
+                } else {
+                    errMessage = err.message
+                }
+                setErrors(errMessage);
             })
-    };
-
-    const validate = () => {
-        const errors = [];
-        let isValidate = true;
-
-        if (!data.email || !data.password) {
-            isValidate = false;
-            errors.push(" Wszystkie pola powinny być wypełnione")
-        }
-        if (data.email.length < 3 && !data.email.includes("@")) {
-            isValidate = false;
-            errors.push(" E-mail powinien zawierać co najmniej 3 znaki i znak @!")
-        }
-        if (data.password.length < 5) {
-            isValidate = true;
-            errors.push(" Hasło powinno zawierać co najmniej 5 liter!")
-        }
-        setErrors(errors);
-        return isValidate
     };
 
     const save = (e) => {
@@ -70,9 +65,7 @@ const Login = (props) => {
             password: data.password
         };
 
-        if (validate ()) {
-            postUser(authData);
-        }
+        postUser(authData);
     };
 
     const onRegistrationBtn = () => {
@@ -87,16 +80,16 @@ const Login = (props) => {
                     <div className="form-div">
                         <form onSubmit={save}>
                             <label id="email"><span>E</span> - mail
-                                <input type="email" name="email" className="login-input" onClick={changeData}/>
+                                <input type="email" name="email" className="login-email-input" value={data.email} onChange={changeData}/>
                             </label>
                             <label id="password"><span>H</span>asło
-                                <input type="password" name="password" className="password-input" onClick={changeData}/>
+                                <input type="password" name="password" className="password-input" value={data.password} onChange={changeData}/>
                             </label>
                             <button type="submit" className="login-btn">Zaloguj się!</button>
                         </form>
                     </div>
-                    {errors ? <h4>{errors}</h4> : null }
-                    <button type="submit" className="login-btn" onClick={onRegistrationBtn}>Zarejestruj się!</button>
+                    {errors ? <h4 className="reg-errors">{errors}</h4> : null }
+                    <button type="submit" className="second-log-btn" onClick={onRegistrationBtn}>Zarejestruj się!</button>
                 </div>
             </section>
         </>

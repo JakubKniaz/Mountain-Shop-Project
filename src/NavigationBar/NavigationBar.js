@@ -11,9 +11,6 @@ const NavigationBar = props => {
     const shopItems = useContext(ShopContext).shopItems;
     const logout = useContext(ShopContext).shopLogout;
 
-
-    console.log(shopItems)
-
     const onLogout = () => {
         logout();
         props.history.replace({pathname: "/"});
@@ -73,7 +70,7 @@ const NavigationBar = props => {
                             <NavLink to="/summary-cart"><a className="nav-link"><i className="fas fa-shopping-basket"></i><span>{shopItems.length}</span></a></NavLink>
                         </li>
                         <li className="nav-item dropdown">
-                            <NavLink to="/history"><i className="fas fa-history"></i></NavLink>
+                            { userId ? <NavLink to="/history"><i className="fas fa-history"></i></NavLink> : null }
                         </li>
                     </ul>
                 </div>

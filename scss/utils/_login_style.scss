@@ -21,20 +21,23 @@
   justify-content: center;
   align-items: center;
   padding: 2rem;
+  margin-top: 3rem;
   form {
     display: flex;
     flex-direction: column;
-    .login-input {
-      width: 70%;
+    .login-email-input {
+      width: 100%;
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
     .password-input {
-      width: 70%;
+      width: 100%;
       height: 3rem;
       border: 2px solid $accentColor;
+      display: block;
     }
-    #login{
+    #email {
       font: 700 2rem "Lato";
       letter-spacing: 0.3rem;
       color: $mainTextColor;
@@ -65,4 +68,23 @@
   border: none;
   border-radius: 50px;
   margin-top: 5rem;
+  &:hover {
+    box-shadow: inset 0 1px 20px 1px rgba(0,0,0,0.5);
+  }
+}
+
+.second-log-btn {
+  width: 40%;
+  height: 5rem;
+  background: $accentColor;
+  font: 700 2rem "Lato";
+  letter-spacing: 0.2rem;
+  color: $menuTextColor;
+  border: none;
+  border-radius: 50px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  &:hover {
+    box-shadow: inset 0 1px 20px 1px rgba(0,0,0,0.5);
+  }
 }
