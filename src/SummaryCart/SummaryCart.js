@@ -17,42 +17,45 @@ const SummaryCart = (props) => {
                 return sum + el;
             },0);
         return sum;
-    }
+    };
 
     const onOrderButtonClick = () => {
+        if (userId) {
+            const items = shopItems.map (item => {
+                return {
+                    id: item.id,
+                    name: item.name,
+                    quantity: item.quantity,
+                    size: item.size}
+            });
 
-        const items = shopItems.map (item => {
-            return {
-                id: item.id,
-                name: item.name,
-                quantity: item.quantity,
-                size: item.size}
-        })
+            const data = {
+                totalPrice: totalPrice,
+                date: new Date(),
+                userId: userId,
+                products: items
+            };
 
-        const data = {
-            totalPrice: totalPrice,
-            date: new Date(),
-            userId: userId,
-            products: items
-        };
-
-        const url = 'https://mountain-shop-project.firebaseio.com/orders.json';
-        fetch(url, {
-            method: 'POST',
-            body: JSON.stringify(data),
-            headers: {
-                "Content-Type": "application/json"
-            }
-        })
-            .then(responseData => responseData.json())
-            .then(response => {
-                clearBasket();
-                props.history.replace("/");
+            const url = 'https://mountain-shop-project.firebaseio.com/orders.json';
+            fetch(url, {
+                method: 'POST',
+                body: JSON.stringify(data),
+                headers: {
+                    "Content-Type": "application/json"
+                }
             })
-            .catch( err => {
-                //setError(err.message)
-                console.log(err.message);
-            })
+                .then(responseData => responseData.json())
+                .then(response => {
+                    clearBasket();
+                    props.history.replace("/");
+                })
+                .catch( err => {
+                    console.log(err.message);
+                })
+        } else {
+            props.history.push("/login");
+        }
+
     };
 
     const returnToShop = () => {
@@ -66,10 +69,7 @@ const SummaryCart = (props) => {
                 <div className="summary-cart-description"><span>K</span>oszyk - <span>P</span>odsumowanie <span>Z</span>akupów</div>
                 <div><button onClick={returnToShop} className="continue-btn"><i className="fas fa-arrow-circle-left"></i> Kontynuuj zakupy!</button></div>
                 { !shopItems.length ? <h4 className="empty-text">Twój koszyk jest pusty!</h4> : null}
-                { shopItems.map(prd => <CartProduct key={prd.id} product={prd} />) }
-
-
-
+                { shopItems.map( (prd,index) => <CartProduct key={index} product={prd} />) }
                 <div className="total-price-content">
                     <div className="price-description">Do zapłaty:</div>
                     <div className="total-price">{totalPrice} zł</div>

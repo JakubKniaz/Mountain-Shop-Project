@@ -11,16 +11,24 @@ const OneProductSection = props => {
     const [product, setProduct] = useState([]);
     const [size, setSize] = useState('S');
     const [quantity, setQuantity] = useState(1);
+    // const [shoeSize, setShoeSize] = useState(38);
+
 
     useEffect(() => {
-        console.log(props.history)
         const url = "https://mountain-shop-project.firebaseio.com/products/" + props.match.params.index + ".json";
         fetch(url)
             .then(responsive => responsive.json())
             .then(obj => {
-                setProduct(obj)
+                setProduct(obj);
+
+                let pattern = /shoes/;
+                if (pattern.test(obj.type)) {
+                    setSize(38);
+                }
+
             })
-    }, []);
+    }, [props.match.params.index]);
+
     if(product === null) {
         return <h1>Wczytywanie...</h1>
     }
@@ -30,23 +38,32 @@ const OneProductSection = props => {
     };
 
     const onBtnClick = event => {
-        const basketItem = {
+        const cartItem = {
             size: size,
             quantity: quantity,
             id: props.match.params.index,
             ...product
-        }
+        };
 
-        console.log(basketItem);
-        addToBasket(basketItem);
-    }
+        console.log(cartItem);
+        addToBasket(cartItem);
+    };
 
     const onSizeChange = event => {
         setSize(event.target.value);
-    }
+    };
 
     const onQuantityChange = event => {
         setQuantity(event.target.value);
+    };
+    let selector = <ClothesSizeForm onSelectionChange={onSizeChange} value={size}/>;
+
+    let pattern = /shoes/;
+    let secondPattern = /gadgets/;
+    if (pattern.test(product.type)) {
+        selector = <ShoeSizeForm onSelectionChange={onSizeChange} value={size}/>;
+    } else if (secondPattern.test(product.type)) {
+        selector = null
     }
 
     return (
@@ -68,7 +85,7 @@ const OneProductSection = props => {
                             mattis quam, at bibendum nibh pulvinar ut. In id ex hendrerit arcu condimentum tincidunt. Donec quis
                             pharetra purus. In id eros metus.</p>
                         <div className="product-form">
-                            <ClothesSizeForm onSelectionChange={onSizeChange}/>
+                            {selector}
                             <QuantityForm onSelectionChange={onQuantityChange}/>
                             <BasketButton onButtonClick={onBtnClick}/>
                         </div>
