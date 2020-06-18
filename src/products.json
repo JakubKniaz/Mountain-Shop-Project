@@ -1,4 +1,4 @@
- [
+[
   {
     "name": "Damska koszulka outdoorowa",
     "secondName": "Brubeck Outdoor Wool Pro T-Shirt",
@@ -47,894 +47,893 @@
     "type": "shirt_woman_thermo",
     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-columbia-midweight-stretch-l-s-top-lady-eve-faded-sky_6.jpg"
   },
-   {
-     "name": "Damska koszulka outdoorowa",
-     "secondName": "The North Face Lightning S/S Tee",
-     "index": 31117,
-     "price": 125,
-     "type": "shirt_woman_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-the-north-face-lightning-s-s-tee-grey-1582537312.jpg"
-   },
-   {
-     "name": "Damska koszulka trekkingowa",
-     "secondName": "The North Face Tanken Tank",
-     "index": 31118,
-     "price": 129,
-     "type": "shirt_woman_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-the-north-face-tanken-tank-mr-pink-1587384040.jpg"
-   },
-   {
-     "name": "Koszulka długi rękaw",
-     "secondName": "The North Face Active L/S Crew Neck",
-     "index": 31119,
-     "price": 165,
-     "type": "shirt_woman_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-the-north-face-active-l-s-crew-neck-lady-asphalt-grey-black-1567077992.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "The North Face Easy Tee S/S",
-     "index": 21111,
-     "price": 99,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-koszulka-the-north-face-easy-tee-s-s-bamboo-yellow-1582625416.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "The North Face Graphic Play Hard S/S",
-     "index": 21112,
-     "price": 110,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-graphic-play-hard-s-s-lady-blue-wing-teal-heather.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "The North Face Never Stop Exploring Tee S/S",
-     "index": 21113,
-     "price": 115,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/h/the-north-face-never-stop-exploring-tee-s-s-lady-tnf-white-tnf-white.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "Columbia Mount Rose Relaxed Tee",
-     "index": 21114,
-     "price": 139,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-columbia-mount-rose-relaxed-tee-poppy-1581934276.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "Columbia Ocean Fade S/S Tee",
-     "index": 21115,
-     "price": 90,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-koszulka-columbia-ocean-fade-s-s-tee-atoll.jpg"
-   },
-   {
-     "name": "Damska koszulka bawełniana",
-     "secondName": "Salewa Solid Dri-Release S/S Tee",
-     "index": 21116,
-     "price": 160,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-solid-dri-release-s-s-tee-lady-dark-purple-melange-1562048698_2.jpg"
-   },
-   {
-     "name": "Koszulka bawełniana szybkoschnąca",
-     "secondName": "Salewa Alta Via Dri-Rel S/S Tee",
-     "index": 21117,
-     "price": 129,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-alta-via-dri-rel-s-s-tee-lady-ocean-melange.jpg"
+  {
+    "name": "Damska koszulka outdoorowa",
+    "secondName": "The North Face Lightning S/S Tee",
+    "index": 31117,
+    "price": 125,
+    "type": "shirt_woman_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-the-north-face-lightning-s-s-tee-grey-1582537312.jpg"
+  },
+  {
+    "name": "Damska koszulka trekkingowa",
+    "secondName": "The North Face Tanken Tank",
+    "index": 31118,
+    "price": 129,
+    "type": "shirt_woman_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-the-north-face-tanken-tank-mr-pink-1587384040.jpg"
+  },
+  {
+    "name": "Koszulka długi rękaw",
+    "secondName": "The North Face Active L/S Crew Neck",
+    "index": 31119,
+    "price": 165,
+    "type": "shirt_woman_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-the-north-face-active-l-s-crew-neck-lady-asphalt-grey-black-1567077992.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "The North Face Easy Tee S/S",
+    "index": 21111,
+    "price": 99,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-koszulka-the-north-face-easy-tee-s-s-bamboo-yellow-1582625416.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "The North Face Graphic Play Hard S/S",
+    "index": 21112,
+    "price": 110,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-graphic-play-hard-s-s-lady-blue-wing-teal-heather.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "The North Face Never Stop Exploring Tee S/S",
+    "index": 21113,
+    "price": 115,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/h/the-north-face-never-stop-exploring-tee-s-s-lady-tnf-white-tnf-white.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Columbia Mount Rose Relaxed Tee",
+    "index": 21114,
+    "price": 139,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-columbia-mount-rose-relaxed-tee-poppy-1581934276.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Columbia Ocean Fade S/S Tee",
+    "index": 21115,
+    "price": 90,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-koszulka-columbia-ocean-fade-s-s-tee-atoll.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Salewa Solid Dri-Release S/S Tee",
+    "index": 21116,
+    "price": 160,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-solid-dri-release-s-s-tee-lady-dark-purple-melange-1562048698_2.jpg"
+  },
+  {
+    "name": "Koszulka bawełniana szybkoschnąca",
+    "secondName": "Salewa Alta Via Dri-Rel S/S Tee",
+    "index": 21117,
+    "price": 129,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-alta-via-dri-rel-s-s-tee-lady-ocean-melange.jpg"
 
-   },
-   {
-     "name": "Koszulka bawełniana szybkoschnąca",
-     "secondName": "Salewa Alta Via Dri-Rel S/S Tee",
-     "index": 21118,
-     "price": 139,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-deer-dri-release-s-s-tee-lady-ombre-blue-melange-1564137480.jpg"
-   },
-   {
-     "name": "Damska bawełniana bawełniana",
-     "secondName": "Patagonia Solar Rays ‘73 Organic Scoop",
-     "index": 21119,
-     "price": 110,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-patagonia-solar-rays-73-organic-scoop-lady-big-sky-blue-1567075802.jpg"
-   },
-   {
-     "name": "Damska bawełniana bawełniana",
-     "secondName": "Patagonia Raindrop Peak Organic V-Neck",
-     "index": 21120,
-     "price": 105,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluzka-damska-patagonia-raindrop-peak-organic-v-neck-t-shirt-purple.jpg"
-
-   },
-   {
-     "name": "Damska bawełniana bawełniana",
-     "secondName": "Patagonia Paddle Pack Organic Crew T-Shirt",
-     "index": 21121,
-     "price": 130,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-patagonia-paddle-pack-organic-crew-t-shirt-white-1585643762.jpg"
-   },
-   {
-     "name": "Damska bawełniana bawełniana",
-     "secondName": "Patagonia Live Simply Hive Organic Scoop T-Shirt",
-     "index": 21122,
-     "price": 140,
-     "type": "shirt_woman_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-patagonia-live-simply-hive-organic-scoop-blue-1585300414.jpg"
-   },
-   {
-     "name": "Męska koszulka outdoorowa",
-     "secondName": "Brubeck City Air T-Shirt",
-     "index": 51111,
-     "price": 110,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-meska-brubeck-city-air-t-shirt-green-1590144012.jpg"
-   },
-   {
-     "name": "Męska koszulka biegowa",
-     "secondName": "Brubeck Dry T-Shirt",
-     "index": 51112,
-     "price": 120,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-brubeck-dry-t-shirt-navy-blue-red-1570447555.jpg"
-   },
-   {
-     "name": "Koszulka długi rękaw",
-     "secondName": "Brubeck Thermo Graphite",
-     "index": 51113,
-     "price": 140,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-brubeck-thermo-graphite.jpg"
-   },
-   {
-     "name": "Męska koszulka trailowa",
-     "secondName": "Columbia Titan Trail S/S Shirt",
-     "index": 51114,
-     "price": 120,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-titan-trail-s-s-shirt-desert-sun-mountain.jpg"
-   },
-   {
-     "name": "Męska koszulka biegowa",
-     "secondName": "Columbia Final Climb S/S Tee",
-     "index": 51115,
-     "price": 130,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/i/biegowa-koszulka-columbia-final-climb-s-s-tee-fission-graphite.jpg"
-   },
-   {
-     "name": "Koszulka długi rękaw",
-     "secondName": "Columbia Zero Rules L/S Shirt",
-     "index": 51116,
-     "price": 150,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-z-dlugim-rekawem-columbia-zero-rules-l-s-shirt-black-black-heather_5.jpg"
-   },
-   {
-     "name": "Męska koszulka trekkingowa",
-     "secondName": "The North Face Impendor Seamless Tee",
-     "index": 51117,
-     "price": 160,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-impendor-seamless-tee-zinnia-orange-white.jpg"
-   },
-   {
-     "name": "Męska koszulka biegowa",
-     "secondName": "The North Face Better Than Naked S/S",
-     "index": 51118,
-     "price": 130,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-better-than-naked-s-s-hyper-blue-hyper-blue.jpg"
-   },
-   {
-     "name": "Koszulka długi rękaw",
-     "secondName": "The North Face Hybrid L/S Zip Neck",
-     "index": 51119,
-     "price": 205,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-termoaktywna-the-north-face-hybrid-l-s-zip-neck-cosmic-blue-1579507127.jpg"
-   },
-   {
-     "name": "Męska koszulka trekkingowa",
-     "secondName": "Salomon Explore Pique SS Tee",
-     "index": 51120,
-     "price": 130,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salomon-explore-pique-ss-tee-ebony-1587468764.jpg"
-   },
-   {
-     "name": "Koszulka długi rękaw trekking",
-     "secondName": "Salomon Agile L/S Tee",
-     "index": 51121,
-     "price": 150,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-salomon-agile-l-s-tee-biking-red.jpg"
-   },
-   {
-     "name": "Koszulka biegowa slim",
-     "secondName": "Salomon EXO Motion HZ S/S Tee",
-     "index": 51122,
-     "price": 170,
-     "type": "shirt_man_thermo",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salomon-exo-motion-hz-ss-tee-surf-the-web.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "The North Face Raglan Easy Tee S/S",
-     "index": 41111,
-     "price": 99,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-raglan-easy-tee-s-s-british-khaki-1565351726.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "The North Face Mountain Line Tee S/S",
-     "index": 41112,
-     "price": 110,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-mountain-line-tee-s-s-tnf-medium-grey-heather-1567674719.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "The North Face Tansa Tee",
-     "index": 41113,
-     "price": 95,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-tansa-tee-fiery-red.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Columbia Alpine Way Graphic Tee",
-     "index": 41114,
-     "price": 109,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-alpine-way-graphic-tee-charcoal-1580811798.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Columbia Basin Butte S/S Graphic Tee",
-     "index": 41115,
-     "price": 90,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-basin-butte-s-s-graphic-tee-red-jasper-1570196730.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Columbia Hillvalley Forest S/S Tee",
-     "index": 41116,
-     "price": 80,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/h/i/hillvalley-forest-tm-short-sleeve-tee-011.jpg"
-   },
-   {
-     "name": "Koszulka bawełniana szybkoschnąca",
-     "secondName": "Salewa Solidlogo Dri-Release S/S Tee",
-     "index": 41117,
-     "price": 125,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-solidlogo-dri-release-s-s-tee-poseidon-melange_4.jpg"
-   },
-   {
-     "name": "Koszulka bawełniana szybkoschnąca",
-     "secondName": "Salewa Dolomitic Dri-Rel S/S Tee",
-     "index": 41118,
-     "price": 120,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-dolomitic-dri-rel-s-s-tee-black-out-melange.jpg"
-   },
-   {
-     "name": "Koszulka bawełniana szybkoschnąca",
-     "secondName": "Salewa Thom CO S/S Tee",
-     "index": 41119,
-     "price": 80,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-thom-co-s-s-tee-oil-green.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Patagonia Cornice Canvas Responsibili-Tee",
-     "index": 41120,
-     "price": 90,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-patagonia-cornice-canvas-responsibili-tee-gravel.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Patagonia Nut vs. Piton Organic",
-     "index": 41121,
-     "price": 80,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/l/e/lekka-koszulka-patagonia-nut-vs-piton-organic-t-shirt-quartz-coral.jpg"
-   },
-   {
-     "name": "Męska koszulka bawełniana",
-     "secondName": "Patagonia Live Simply Winding Responsibili-Tee",
-     "index": 41122,
-     "price": 90,
-     "type": "shirt_man_cotton",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-patagonia-live-simply-winding-responsibili-tee-classic-navy.jpg"
-   },
-   {
-     "name": "Kurtka wodoodporna outdoorowa",
-     "secondName": "The North Face Apex Flex GTX 2.0 Jacket",
-     "index": 71111,
-     "price": 800,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-the-north-face-apex-flex-gtx-2-0-jacket-fire-brick-red_3.jpg"
-   },
-   {
-     "name": "Kurtka wiatroodporna trekking",
-     "secondName": "The North Face Summit L4 Windstopper Hybrid HD",
-     "index": 71112,
-     "price": 750,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-summit-l4-windstopper-hybrid-hoodie-lady-tnf-black-tnf-black_2.jpg"
-   },
-   {
-     "name": "Kurtka outdoorowa wodoodporna",
-     "secondName": "The North Face Apex Nimble Hoodie",
-     "index": 71113,
-     "price": 450,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-damska-the-north-face-apex-nimble-hoodie-clear-lake-blue-1582552573.jpg"
-   },
-   {
-     "name": "Kurtka outdoor trekking",
-     "secondName": "Columbia Sweet AS Softshell Hoodie",
-     "index": 71114,
-     "price": 420,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-sweet-as-softshell-hoodie-lady-nocturnal-haute-pink.jpg"
-   },
-   {
-     "name": "Kurtka outdoor trekking",
-     "secondName": "Columbia Heather Canyon Softshell",
-     "index": 71115,
-     "price": 390,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-heather-canyon-softshell-jacket-lady-wine-berry-heather.jpg"
-   },
-   {
-     "name": "Kurtka wodoodporna outdoor",
-     "secondName": "Columbia Sweet AS Softshell Hoodie",
-     "index": 71116,
-     "price": 300,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-sweet-as-softshell-hoodie-damska-red-coral-1583243950.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Salewa Agner Engineered DST Jacket",
-     "index": 71117,
-     "price": 500,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-salewa-agner-engineered-dst-jacket-lady-malta.jpg"
-   },
-   {
-     "name": "Kurtka wiatroodporna outdoor",
-     "secondName": "Salewa Ortles WS/DST Jacket",
-     "index": 71118,
-     "price": 700,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-salewa-ortles-ws-dst-jacket-black-out-1575298359.jpg"
-   },
-   {
-     "name": "Kurtka biegowa wodoodporna",
-     "secondName": "Salewa Pedroc 2 SW/DST Jacket",
-     "index": 71119,
-     "price": 600,
-     "type": "jacket_woman_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-sw-dst-jacket-lady-blue-sapphire-1564405343.jpg"
-   },
-   {
-     "name": "Kurtka o wysokiej wodoodporności",
-     "secondName": "The North Face Impendor C-Knit Jacket",
-     "index": 61111,
-     "price": 900,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-impendor-c-knit-jacket-lady-yellow-black-1567078962.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "The North Face damska Insulated Apex Flex GTX 2.0",
-     "index": 61112,
-     "price": 1050,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-damska-insulated-apex-flex-gtx-2-0-jacket-grey.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "The North Face Purist Jacket",
-     "index": 61113,
-     "price": 1300,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-purist-jacket-lady-kokomo-green-tnf-black_1.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Salewa Ortles 3 GTX Pro Jacket",
-     "index": 61114,
-     "price": 1500,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-damska-salewa-ortles-3-gtx-pro-jacket-teal_11.jpg"
-   },
-   {
-     "name": "Kurtka trekking professional",
-     "secondName": "Salewa Ortles 3 GTX Pro Jacket 2",
-     "index": 61115,
-     "price": 1800,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-ortles-3-gtx-pro-jacket-lady-petunia-1565698190.jpg"
-   },
-   {
-     "name": "Kurtka wodoodporna outdoor",
-     "secondName": "Salewa Fanes 2 GTX 2L Jacket",
-     "index": 61116,
-     "price": 750,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-turystyczna-salewa-fanes-2-gtx-2l-jacket-black-out.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Black Diamond Helio GORE Active Shell",
-     "index": 61117,
-     "price": 1100,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-membranowa-black-diamond-damska-helio-gore-active-shell-ocean-1571392734.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Black Diamond Helio GORE Active Shell 2A",
-     "index": 61118,
-     "price": 1100,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-helio-gore-active-shell-lady-coral.jpg"
-   },
-   {
-     "name": "Kurtka outdoor wodoodporna",
-     "secondName": "Black Diamond Liquid Point Shell",
-     "index": 61119,
-     "price": 800,
-     "type": "jacket_woman_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-liquid-point-shell-lady-wild-rose-1571392133.jpg"
-   },
-   {
-     "name": "Kurtka przeciwwiatrowa",
-     "secondName": "The North Face North Dome Stretch Wind",
-     "index": 91111,
-     "price": 400,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-north-dome-2-stretch-wind-blue-1587384912.jpg"
-   },
-   {
-     "name": "Kurtka outdoor trekking",
-     "secondName": "The North Face Aterpea II Softshell Hoodie",
-     "index": 91112,
-     "price": 350,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/w/y/wygodna-bluza-the-north-face-aterpea-ii-softshell-hoodie-tnf-black_1.jpg"
-   },
-   {
-     "name": "Kurtka przeciwwiatrowa",
-     "secondName": "The North Face Thermal WindWall Hoodie",
-     "index": 91113,
-     "price": 450,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-the-north-face-thermal-windwall-hoodie-monterey-blue-heather.jpg"
-   },
-   {
-     "name": "Kurtka oddychająca trekking",
-     "secondName": "Salewa Pedroc 2 SW/DST Jacket",
-     "index": 91114,
-     "price": 500,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-sw-dst-jacket-blue-sapphire-1564666468.jpg"
-   },
-   {
-     "name": "Kurtka trekking outdoor",
-     "secondName": "Salewa Puez Dolomitic PL Full-Zip Hoody",
-     "index": 91115,
-     "price": 430,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-trekkingowy-salewa-puez-dolomitic-pl-full-zip-hoody-blue.jpg"
-   },
-   {
-     "name": "Kurtka skitourowa outdoor",
-     "secondName": "Salewa Sesvenna WS WR Jacket",
-     "index": 91116,
-     "price": 700,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-softshellowa-salewa-sesvenna-ws-wr-jacket-black-out.jpg"
-   },
-   {
-     "name": "Kurtka przeciwwiatrowa",
-     "secondName": "Black Diamond Flow State Jacket",
-     "index": 91117,
-     "price": 500,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-flow-state-jacket-slate.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Black Diamond Dawn Patrol Shell",
-     "index": 91118,
-     "price": 600,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-dawn-patrol-shell-red-oxide.jpg"
-   },
-   {
-     "name": "Kurtka wiatroodporna",
-     "secondName": "Black Diamond Stack Jacket",
-     "index": 91119,
-     "price": 700,
-     "type": "jacket_man_softshell",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-stack-jacket-sapphire.jpg"
-   },
-   {
-     "name": "Kurtka outdoor skitourowa",
-     "secondName": "The North Face Powder Guide Jacket",
-     "index": 81111,
-     "price": 1400,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-powder-guide-jacket-hyper-blue-beech-green.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "The North Face Impendor Shell Jacket",
-     "index": 81112,
-     "price": 1100,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-impendor-shell-jacket-bomber-blue-tnf-black.jpg"
-   },
-   {
-     "name": "Kurtka outdoor trekking",
-     "secondName": "The North Face Apex Flex GTX 2.0",
-     "index": 81113,
-     "price": 1300,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-insulated-apex-flex-gtx-2-0-jacket-tnf-black.jpg"
-   },
-   {
-     "name": "Kurtka oddychająca trekking",
-     "secondName": "Salewa Ortles 3 GTX Pro Jacket",
-     "index": 81114,
-     "price": 1800,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-ortles-3-gtx-pro-jacket-ombre-blue-1568101115.jpg"
-   },
-   {
-     "name": "Kurtka trekking professional",
-     "secondName": "Salewa Pedroc 2 GTX Act Jacket",
-     "index": 81115,
-     "price": 1200,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-gtx-act-jacket-caviar.jpg"
-   },
-   {
-     "name": "Kurtka skitourowa outdoor",
-     "secondName": "Salewa Sesvenna Active GTX Jacket",
-     "index": 81116,
-     "price": 1100,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-z-membrana-salewa-sesvenna-active-gtx-jacket-blue-sapphire-1578061343.jpg"
-   },
-   {
-     "name": "Kurtka trekking proffesional",
-     "secondName": "Black Diamond Helio GORE Active Shell",
-     "index": 81117,
-     "price": 1200,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-helio-gore-active-shell-verde_12.jpg"
-   },
-   {
-     "name": "Kurtka trekking górski",
-     "secondName": "Black Diamond Mission Shell",
-     "index": 81118,
-     "price": 1500,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-mission-shell-black-1571139003.jpg"
-   },
-   {
-     "name": "Kurtka outdoor wodoodporna",
-     "secondName": "Black Diamond Liquid Point Shell 2",
-     "index": 81119,
-     "price": 850,
-     "type": "jacket_man_goretex",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-liquid-point-shell-red-rock-1583922194.jpg"
-   },
-   {
-     "name": "Damskie buty trekkingowe",
-     "secondName": "Salomon X Ultra 3",
-     "index": 101111,
-     "price": 400,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-salomon-x-ultra-3-graphite-black-1580128690.jpg"
-   },
-   {
-     "name": "Damskie buty trailowe",
-     "secondName": "Salomon XA Wild GTX",
-     "index": 101112,
-     "price": 500,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-xa-wild-gtx-lady-balsam-grey-black-1571665480.jpg"
-   },
-   {
-     "name": "Damskie buty trekkingowe",
-     "secondName": "Salomon Vaya",
-     "index": 101113,
-     "price": 380,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-damskie-salomon-vaya-black-cedar-1580996686.jpg"
-   },
-   {
-     "name": "Damskie buty podejściowe",
-     "secondName": "Scarpa Zen Pro",
-     "index": 101114,
-     "price": 500,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-scarpa-zen-pro-abyss-orangeade.jpg"
-   },
-   {
-     "name": "Damskie buty podejściowe",
-     "secondName": "Scarpa Mescalito",
-     "index": 101115,
-     "price": 520,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-scarpa-mescalito-titanium-green-blue.jpg"
-   },
-   {
-     "name": "Damskie buty podejściowe",
-     "secondName": "Scarpa Zodiac",
-     "index": 101116,
-     "price": 550,
-     "type": "shoes_woman_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-podejsciowe-scarpa-zodiac-icefall.jpg"
-   },
-   {
-     "name": "Damskie buty trekkingowe",
-     "secondName": "Salomon OUTward GTX",
-     "index": 121111,
-     "price": 580,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-salomon-outward-gtx-wine-black-1580132826.jpg"
-   },
-   {
-     "name": "Buty trekkingowe Gore-Tex",
-     "secondName": "Salomon Quest Prime GTX",
-     "index": 121112,
-     "price": 600,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-quest-prime-gtx-lady-deep-taupe-phantom.jpg"
-   },
-   {
-     "name": "Damskie buty biegowe",
-     "secondName": "Salomon Outline Mid GTX",
-     "index": 121113,
-     "price": 450,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-mid-gtx-lady-navy-blazer-hydro.jpg"
-   },
-   {
-     "name": "Damskie buty trekkingowe",
-     "secondName": "Scarpa ZG Trek GTX",
-     "index": 121114,
-     "price": 600,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-scarpa-zg-pro-gtx-dark-coffee-rust_6.jpg"
-   },
-   {
-     "name": "Damskie buty górskie",
-     "secondName": "Scarpa Zodiac Tech GTX",
-     "index": 121115,
-     "price": 800,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-gorskie-scarpa-zodiac-tech-gtx-green-blue.jpg"
-   },
-   {
-     "name": "Buty trekking skórzane",
-     "secondName": "Scarpa Delta GTX",
-     "index": 121116,
-     "price": 900,
-     "type": "shoes_woman_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/c/scarpa-delta-gtx-damskie-buty-trekkingowe-testa-di-moro.jpg"
-   },
-   {
-     "name": "Męskie buty trekkingowe",
-     "secondName": "Salomon Outline GTX",
-     "index": 131111,
-     "price": 400,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-gtx-navy-blazer-indigo-bunting.jpg"
-   },
-   {
-     "name": "Męskie buty trekkingowe",
-     "secondName": "Salomon X Reveal GTX",
-     "index": 131112,
-     "price": 350,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-x-reveal-gtx-phantom-burnt-olive-1579680193.jpg"
-   },
-   {
-     "name": "Męskie buty turystyczne",
-     "secondName": "Salomon Out Pro",
-     "index": 131113,
-     "price": 470,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-salomon-out-pro-cherry-tomato-black-1585032238.jpg"
-   },
-   {
-     "name": "Męskie buty podejściowe",
-     "secondName": "Scarpa Crux",
-     "index": 131114,
-     "price": 500,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-podejsciowe-scarpa-crux-shark-tonic.jpg"
-   },
-   {
-     "name": "Buty podejściowe techniczne",
-     "secondName": "Scarpa Zodiac",
-     "index": 131115,
-     "price": 550,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/techniczne-buty-podejsciowe-scarpa-zodiac-tonic.jpg"
-   },
-   {
-     "name": "Męskie buty podejściowe",
-     "secondName": "Scarpa Mojito Fresh",
-     "index": 131116,
-     "price": 400,
-     "type": "shoes_man_low",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-scarpa-mojito-fresh-grey_6.jpg"
-   },
-   {
-     "name": "Męskie buty trekkingowe",
-     "secondName": "Salomon X Ultra MID 3 Aero",
-     "index": 141111,
-     "price": 450,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-x-ultra-mid-3-aero-peat-bungee-cord-1579618258.jpg"
-   },
-   {
-     "name": "Męskie buty górskie",
-     "secondName": "Salomon OUTback 500 GTX",
-     "index": 141112,
-     "price": 530,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-gorskie-salomon-outback-500-gtx-quiet-shade-navy-blazer.jpg"
-   },
-   {
-     "name": "Męskie buty turystyczne",
-     "secondName": "Salomon OUTline Mid GTX",
-     "index": 141113,
-     "price": 450,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-mid-gtx-burnt-olive-citronelle.jpg"
-   },
-   {
-     "name": "Męskie buty trekkingowe",
-     "secondName": "Scarpa ZG Trek GTX",
-     "index": 141114,
-     "price": 650,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/c/scarpa-buty-trekkingowe-zg-trek-gtx-ottano-gray_6.jpg"
-   },
-   {
-     "name": "Buty skórzane trekkingowe",
-     "secondName": "Scarpa Kailash Pro GTX",
-     "index": 141115,
-     "price": 800,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-scarpa-kailash-pro-gtx-ebony-1586327812.jpg"
-   },
-   {
-     "name": "Męskie buty górskie",
-     "secondName": "Scarpa Zodiac Tech GTX",
-     "index": 141116,
-     "price": 900,
-     "type": "shoes_man_high",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-gorskie-scarpa-zodiac-tech-gtx-tonic.jpg"
-   },
-   {
-     "name": "Kubek termiczny",
-     "secondName": "Light My Fire Pack-up-Cup Bio",
-     "index": 11112,
-     "price": 29,
-     "type": "gadgets",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kubek-light-my-fire-pack-up-cup-bio-musty-yellow-1574764608.jpg"
-   },
-   {
-     "name": "Kubek zestaw",
-     "secondName": "Light My Fire Re-kit",
-     "index": 11113,
-     "price": 49,
-     "type": "gadgets",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/u/turystyczny-zestaw-light-my-fire-rekit-petroleum-1576228469.jpg"
-   },
-   {
-     "name": "Zestaw misek",
-     "secondName": "Outwell Collaps Bowl Set",
-     "index": 11114,
-     "price": 99,
-     "type": "gadgets",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/z/e/zestaw-misek-outwell-collaps-bowl-set-lime-green_1.jpg"
-   },
-   {
-     "name": "Termos",
-     "secondName": "Esbit Vacuum XL 2.1L",
-     "index": 11115,
-     "price": 149,
-     "type": "gadgets",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/termos-esbit-vacuum-xl_26.jpg"
-   },
-   {
-     "name": "Termos",
-     "secondName": "Esbit Iso Vacuum Flask 0.75L",
-     "index": 11116,
-     "price": 89,
-     "type": "gadgets",
-     "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/termos-esbit-iso-vacuum-flask-0-75l.jpg"
-   },
-   {
-     "name": "Mapa Tatry",
-     "secondName": "Mapa turystyczna plus przewodnik",
-     "index": 11117,
-     "price": 19,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/tatry-mapa-turystyczna-1-27-000-b-iext39225863.jpg"
-   },
-   {
-     "name": "Mapa Bieszczady",
-     "secondName": "Mapa turystyczna plus przewodnik",
-     "index": 11118,
-     "price": 19,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/bieszczady-mapa-turystyczna-1-65-000-b-iext36578244.jpg"
-   },
-   {
-     "name": "Mapa Pieniny",
-     "secondName": "Mapa turystyczna plus przewodnik",
-     "index": 11119,
-     "price": 19,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/gorce-i-pieniny-mapa-turystyczna-1-50-000-b-iext44536894.jpg"
-   },
-   {
-     "name": "Kurtyka. Sztuka wolności",
-     "secondName": "Bernadette McDonald",
-     "index": 11120,
-     "price": 35,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/kurtyka-sztuka-wolnosci-b-iext51926908.jpg"
-   },
-   {
-     "name": "K. Wielicki. Piekło mnie nie chciało",
-     "secondName": "Kortko Dariusz, Pietraszewski Marcin",
-     "index": 11121,
-     "price": 37,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/krzysztof-wielicki-pieklo-mnie-nie-chcialo-b-iext55336469.jpg"
-   },
-   {
-     "name": "Ja, pustelnik. Autobiografia",
-     "secondName": "Pustelnik Piotr, Trybalski Piotr",
-     "index": 11122,
-     "price": 36,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/ja-pustelnik-autobiografia-b-iext50791189.jpg"
-   },
-   {
-     "name": "Spod zamarzniętych powiek",
-     "secondName": "Szczepański Dominik, Bielecki Adam",
-     "index": 11123,
-     "price": 39,
-     "type": "gadgets",
-     "image": "https://ecsmedia.pl/c/spod-zamarznietych-powiek-b-iext47546058.jpg"
-   }
+  },
+  {
+    "name": "Koszulka bawełniana szybkoschnąca",
+    "secondName": "Salewa Alta Via Dri-Rel S/S Tee",
+    "index": 21118,
+    "price": 139,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-deer-dri-release-s-s-tee-lady-ombre-blue-melange-1564137480.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Patagonia Solar Rays ‘73 Organic Scoop",
+    "index": 21119,
+    "price": 110,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-patagonia-solar-rays-73-organic-scoop-lady-big-sky-blue-1567075802.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Patagonia Raindrop Peak Organic V-Neck",
+    "index": 21120,
+    "price": 105,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluzka-damska-patagonia-raindrop-peak-organic-v-neck-t-shirt-purple.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Patagonia Paddle Pack Organic Crew T-Shirt",
+    "index": 21121,
+    "price": 130,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-patagonia-paddle-pack-organic-crew-t-shirt-white-1585643762.jpg"
+  },
+  {
+    "name": "Damska koszulka bawełniana",
+    "secondName": "Patagonia Live Simply Hive Organic Scoop T-Shirt",
+    "index": 21122,
+    "price": 140,
+    "type": "shirt_woman_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-damska-patagonia-live-simply-hive-organic-scoop-blue-1585300414.jpg"
+  },
+  {
+    "name": "Męska koszulka outdoorowa",
+    "secondName": "Brubeck City Air T-Shirt",
+    "index": 51111,
+    "price": 110,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-meska-brubeck-city-air-t-shirt-green-1590144012.jpg"
+  },
+  {
+    "name": "Męska koszulka biegowa",
+    "secondName": "Brubeck Dry T-Shirt",
+    "index": 51112,
+    "price": 120,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-brubeck-dry-t-shirt-navy-blue-red-1570447555.jpg"
+  },
+  {
+    "name": "Koszulka długi rękaw",
+    "secondName": "Brubeck Thermo Graphite",
+    "index": 51113,
+    "price": 140,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-brubeck-thermo-graphite.jpg"
+  },
+  {
+    "name": "Męska koszulka trailowa",
+    "secondName": "Columbia Titan Trail S/S Shirt",
+    "index": 51114,
+    "price": 120,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-titan-trail-s-s-shirt-desert-sun-mountain.jpg"
+  },
+  {
+    "name": "Męska koszulka biegowa",
+    "secondName": "Columbia Final Climb S/S Tee",
+    "index": 51115,
+    "price": 130,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/i/biegowa-koszulka-columbia-final-climb-s-s-tee-fission-graphite.jpg"
+  },
+  {
+    "name": "Koszulka długi rękaw",
+    "secondName": "Columbia Zero Rules L/S Shirt",
+    "index": 51116,
+    "price": 150,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-z-dlugim-rekawem-columbia-zero-rules-l-s-shirt-black-black-heather_5.jpg"
+  },
+  {
+    "name": "Męska koszulka trekkingowa",
+    "secondName": "The North Face Impendor Seamless Tee",
+    "index": 51117,
+    "price": 160,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-impendor-seamless-tee-zinnia-orange-white.jpg"
+  },
+  {
+    "name": "Męska koszulka biegowa",
+    "secondName": "The North Face Better Than Naked S/S",
+    "index": 51118,
+    "price": 130,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-better-than-naked-s-s-hyper-blue-hyper-blue.jpg"
+  },
+  {
+    "name": "Koszulka długi rękaw",
+    "secondName": "The North Face Hybrid L/S Zip Neck",
+    "index": 51119,
+    "price": 205,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-termoaktywna-the-north-face-hybrid-l-s-zip-neck-cosmic-blue-1579507127.jpg"
+  },
+  {
+    "name": "Męska koszulka trekkingowa",
+    "secondName": "Salomon Explore Pique SS Tee",
+    "index": 51120,
+    "price": 130,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salomon-explore-pique-ss-tee-ebony-1587468764.jpg"
+  },
+  {
+    "name": "Koszulka długi rękaw trekking",
+    "secondName": "Salomon Agile L/S Tee",
+    "index": 51121,
+    "price": 150,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-salomon-agile-l-s-tee-biking-red.jpg"
+  },
+  {
+    "name": "Koszulka biegowa slim",
+    "secondName": "Salomon EXO Motion HZ S/S Tee",
+    "index": 51122,
+    "price": 170,
+    "type": "shirt_man_thermo",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salomon-exo-motion-hz-ss-tee-surf-the-web.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "The North Face Raglan Easy Tee S/S",
+    "index": 41111,
+    "price": 99,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-the-north-face-raglan-easy-tee-s-s-british-khaki-1565351726.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "The North Face Mountain Line Tee S/S",
+    "index": 41112,
+    "price": 110,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-mountain-line-tee-s-s-tnf-medium-grey-heather-1567674719.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "The North Face Tansa Tee",
+    "index": 41113,
+    "price": 95,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-the-north-face-tansa-tee-fiery-red.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Columbia Alpine Way Graphic Tee",
+    "index": 41114,
+    "price": 109,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-alpine-way-graphic-tee-charcoal-1580811798.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Columbia Basin Butte S/S Graphic Tee",
+    "index": 41115,
+    "price": 90,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-columbia-basin-butte-s-s-graphic-tee-red-jasper-1570196730.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Columbia Hillvalley Forest S/S Tee",
+    "index": 41116,
+    "price": 80,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/h/i/hillvalley-forest-tm-short-sleeve-tee-011.jpg"
+  },
+  {
+    "name": "Koszulka bawełniana szybkoschnąca",
+    "secondName": "Salewa Solidlogo Dri-Release S/S Tee",
+    "index": 41117,
+    "price": 125,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-solidlogo-dri-release-s-s-tee-poseidon-melange_4.jpg"
+  },
+  {
+    "name": "Koszulka bawełniana szybkoschnąca",
+    "secondName": "Salewa Dolomitic Dri-Rel S/S Tee",
+    "index": 41118,
+    "price": 120,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-dolomitic-dri-rel-s-s-tee-black-out-melange.jpg"
+  },
+  {
+    "name": "Koszulka bawełniana szybkoschnąca",
+    "secondName": "Salewa Thom CO S/S Tee",
+    "index": 41119,
+    "price": 80,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/o/koszulka-salewa-thom-co-s-s-tee-oil-green.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Patagonia Cornice Canvas Responsibili-Tee",
+    "index": 41120,
+    "price": 90,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-patagonia-cornice-canvas-responsibili-tee-gravel.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Patagonia Nut vs. Piton Organic",
+    "index": 41121,
+    "price": 80,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/l/e/lekka-koszulka-patagonia-nut-vs-piton-organic-t-shirt-quartz-coral.jpg"
+  },
+  {
+    "name": "Męska koszulka bawełniana",
+    "secondName": "Patagonia Live Simply Winding Responsibili-Tee",
+    "index": 41122,
+    "price": 90,
+    "type": "shirt_man_cotton",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/-/t-shirt-patagonia-live-simply-winding-responsibili-tee-classic-navy.jpg"
+  },
+  {
+    "name": "Kurtka wodoodporna outdoorowa",
+    "secondName": "The North Face Apex Flex GTX 2.0 Jacket",
+    "index": 71111,
+    "price": 800,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-the-north-face-apex-flex-gtx-2-0-jacket-fire-brick-red_3.jpg"
+  },
+  {
+    "name": "Kurtka wiatroodporna trekking",
+    "secondName": "The North Face Summit L4 Windstopper Hybrid HD",
+    "index": 71112,
+    "price": 750,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-summit-l4-windstopper-hybrid-hoodie-lady-tnf-black-tnf-black_2.jpg"
+  },
+  {
+    "name": "Kurtka outdoorowa wodoodporna",
+    "secondName": "The North Face Apex Nimble Hoodie",
+    "index": 71113,
+    "price": 450,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-damska-the-north-face-apex-nimble-hoodie-clear-lake-blue-1582552573.jpg"
+  },
+  {
+    "name": "Kurtka outdoor trekking",
+    "secondName": "Columbia Sweet AS Softshell Hoodie",
+    "index": 71114,
+    "price": 420,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-sweet-as-softshell-hoodie-lady-nocturnal-haute-pink.jpg"
+  },
+  {
+    "name": "Kurtka outdoor trekking",
+    "secondName": "Columbia Heather Canyon Softshell",
+    "index": 71115,
+    "price": 390,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-heather-canyon-softshell-jacket-lady-wine-berry-heather.jpg"
+  },
+  {
+    "name": "Kurtka wodoodporna outdoor",
+    "secondName": "Columbia Sweet AS Softshell Hoodie",
+    "index": 71116,
+    "price": 300,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-columbia-sweet-as-softshell-hoodie-damska-red-coral-1583243950.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Salewa Agner Engineered DST Jacket",
+    "index": 71117,
+    "price": 500,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-salewa-agner-engineered-dst-jacket-lady-malta.jpg"
+  },
+  {
+    "name": "Kurtka wiatroodporna outdoor",
+    "secondName": "Salewa Ortles WS/DST Jacket",
+    "index": 71118,
+    "price": 700,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-salewa-ortles-ws-dst-jacket-black-out-1575298359.jpg"
+  },
+  {
+    "name": "Kurtka biegowa wodoodporna",
+    "secondName": "Salewa Pedroc 2 SW/DST Jacket",
+    "index": 71119,
+    "price": 600,
+    "type": "jacket_woman_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-sw-dst-jacket-lady-blue-sapphire-1564405343.jpg"
+  },
+  {
+    "name": "Kurtka o wysokiej wodoodporności",
+    "secondName": "The North Face Impendor C-Knit Jacket",
+    "index": 61111,
+    "price": 900,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-impendor-c-knit-jacket-lady-yellow-black-1567078962.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "The North Face damska Insulated Apex Flex GTX 2.0",
+    "index": 61112,
+    "price": 1050,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-damska-insulated-apex-flex-gtx-2-0-jacket-grey.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "The North Face Purist Jacket",
+    "index": 61113,
+    "price": 1300,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-purist-jacket-lady-kokomo-green-tnf-black_1.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Salewa Ortles 3 GTX Pro Jacket",
+    "index": 61114,
+    "price": 1500,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-damska-salewa-ortles-3-gtx-pro-jacket-teal_11.jpg"
+  },
+  {
+    "name": "Kurtka trekking professional",
+    "secondName": "Salewa Ortles 3 GTX Pro Jacket 2",
+    "index": 61115,
+    "price": 1800,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-ortles-3-gtx-pro-jacket-lady-petunia-1565698190.jpg"
+  },
+  {
+    "name": "Kurtka wodoodporna outdoor",
+    "secondName": "Salewa Fanes 2 GTX 2L Jacket",
+    "index": 61116,
+    "price": 750,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damska-kurtka-turystyczna-salewa-fanes-2-gtx-2l-jacket-black-out.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Black Diamond Helio GORE Active Shell",
+    "index": 61117,
+    "price": 1100,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-membranowa-black-diamond-damska-helio-gore-active-shell-ocean-1571392734.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Black Diamond Helio GORE Active Shell 2A",
+    "index": 61118,
+    "price": 1100,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-helio-gore-active-shell-lady-coral.jpg"
+  },
+  {
+    "name": "Kurtka outdoor wodoodporna",
+    "secondName": "Black Diamond Liquid Point Shell",
+    "index": 61119,
+    "price": 800,
+    "type": "jacket_woman_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-liquid-point-shell-lady-wild-rose-1571392133.jpg"
+  },
+  {
+    "name": "Kurtka przeciwwiatrowa",
+    "secondName": "The North Face North Dome Stretch Wind",
+    "index": 91111,
+    "price": 400,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-north-dome-2-stretch-wind-blue-1587384912.jpg"
+  },
+  {
+    "name": "Kurtka outdoor trekking",
+    "secondName": "The North Face Aterpea II Softshell Hoodie",
+    "index": 91112,
+    "price": 350,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/w/y/wygodna-bluza-the-north-face-aterpea-ii-softshell-hoodie-tnf-black_1.jpg"
+  },
+  {
+    "name": "Kurtka przeciwwiatrowa",
+    "secondName": "The North Face Thermal WindWall Hoodie",
+    "index": 91113,
+    "price": 450,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/l/bluza-the-north-face-thermal-windwall-hoodie-monterey-blue-heather.jpg"
+  },
+  {
+    "name": "Kurtka oddychająca trekking",
+    "secondName": "Salewa Pedroc 2 SW/DST Jacket",
+    "index": 91114,
+    "price": 500,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-sw-dst-jacket-blue-sapphire-1564666468.jpg"
+  },
+  {
+    "name": "Kurtka trekking outdoor",
+    "secondName": "Salewa Puez Dolomitic PL Full-Zip Hoody",
+    "index": 91115,
+    "price": 430,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-trekkingowy-salewa-puez-dolomitic-pl-full-zip-hoody-blue.jpg"
+  },
+  {
+    "name": "Kurtka skitourowa outdoor",
+    "secondName": "Salewa Sesvenna WS WR Jacket",
+    "index": 91116,
+    "price": 700,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-softshellowa-salewa-sesvenna-ws-wr-jacket-black-out.jpg"
+  },
+  {
+    "name": "Kurtka przeciwwiatrowa",
+    "secondName": "Black Diamond Flow State Jacket",
+    "index": 91117,
+    "price": 500,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-flow-state-jacket-slate.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Black Diamond Dawn Patrol Shell",
+    "index": 91118,
+    "price": 600,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-dawn-patrol-shell-red-oxide.jpg"
+  },
+  {
+    "name": "Kurtka wiatroodporna",
+    "secondName": "Black Diamond Stack Jacket",
+    "index": 91119,
+    "price": 700,
+    "type": "jacket_man_softshell",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/o/softshell-black-diamond-stack-jacket-sapphire.jpg"
+  },
+  {
+    "name": "Kurtka outdoor skitourowa",
+    "secondName": "The North Face Powder Guide Jacket",
+    "index": 81111,
+    "price": 1400,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-powder-guide-jacket-hyper-blue-beech-green.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "The North Face Impendor Shell Jacket",
+    "index": 81112,
+    "price": 1100,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-impendor-shell-jacket-bomber-blue-tnf-black.jpg"
+  },
+  {
+    "name": "Kurtka outdoor trekking",
+    "secondName": "The North Face Apex Flex GTX 2.0",
+    "index": 81113,
+    "price": 1300,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-the-north-face-insulated-apex-flex-gtx-2-0-jacket-tnf-black.jpg"
+  },
+  {
+    "name": "Kurtka oddychająca trekking",
+    "secondName": "Salewa Ortles 3 GTX Pro Jacket",
+    "index": 81114,
+    "price": 1800,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-ortles-3-gtx-pro-jacket-ombre-blue-1568101115.jpg"
+  },
+  {
+    "name": "Kurtka trekking professional",
+    "secondName": "Salewa Pedroc 2 GTX Act Jacket",
+    "index": 81115,
+    "price": 1200,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-salewa-pedroc-2-gtx-act-jacket-caviar.jpg"
+  },
+  {
+    "name": "Kurtka skitourowa outdoor",
+    "secondName": "Salewa Sesvenna Active GTX Jacket",
+    "index": 81116,
+    "price": 1100,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-z-membrana-salewa-sesvenna-active-gtx-jacket-blue-sapphire-1578061343.jpg"
+  },
+  {
+    "name": "Kurtka trekking proffesional",
+    "secondName": "Black Diamond Helio GORE Active Shell",
+    "index": 81117,
+    "price": 1200,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-helio-gore-active-shell-verde_12.jpg"
+  },
+  {
+    "name": "Kurtka trekking górski",
+    "secondName": "Black Diamond Mission Shell",
+    "index": 81118,
+    "price": 1500,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-mission-shell-black-1571139003.jpg"
+  },
+  {
+    "name": "Kurtka outdoor wodoodporna",
+    "secondName": "Black Diamond Liquid Point Shell 2",
+    "index": 81119,
+    "price": 850,
+    "type": "jacket_man_goretex",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kurtka-black-diamond-liquid-point-shell-red-rock-1583922194.jpg"
+  },
+  {
+    "name": "Damskie buty trekkingowe",
+    "secondName": "Salomon X Ultra 3",
+    "index": 101111,
+    "price": 400,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-salomon-x-ultra-3-graphite-black-1580128690.jpg"
+  },
+  {
+    "name": "Damskie buty trailowe",
+    "secondName": "Salomon XA Wild GTX",
+    "index": 101112,
+    "price": 500,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-xa-wild-gtx-lady-balsam-grey-black-1571665480.jpg"
+  },
+  {
+    "name": "Damskie buty trekkingowe",
+    "secondName": "Salomon Vaya",
+    "index": 101113,
+    "price": 380,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-damskie-salomon-vaya-black-cedar-1580996686.jpg"
+  },
+  {
+    "name": "Damskie buty podejściowe",
+    "secondName": "Scarpa Zen Pro",
+    "index": 101114,
+    "price": 500,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-scarpa-zen-pro-abyss-orangeade.jpg"
+  },
+  {
+    "name": "Damskie buty podejściowe",
+    "secondName": "Scarpa Mescalito",
+    "index": 101115,
+    "price": 520,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-scarpa-mescalito-titanium-green-blue.jpg"
+  },
+  {
+    "name": "Damskie buty podejściowe",
+    "secondName": "Scarpa Zodiac",
+    "index": 101116,
+    "price": 550,
+    "type": "shoes_woman_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-podejsciowe-scarpa-zodiac-icefall.jpg"
+  },
+  {
+    "name": "Damskie buty trekkingowe",
+    "secondName": "Salomon OUTward GTX",
+    "index": 121111,
+    "price": 580,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-damskie-salomon-outward-gtx-wine-black-1580132826.jpg"
+  },
+  {
+    "name": "Buty trekkingowe Gore-Tex",
+    "secondName": "Salomon Quest Prime GTX",
+    "index": 121112,
+    "price": 600,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-quest-prime-gtx-lady-deep-taupe-phantom.jpg"
+  },
+  {
+    "name": "Damskie buty biegowe",
+    "secondName": "Salomon Outline Mid GTX",
+    "index": 121113,
+    "price": 450,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-mid-gtx-lady-navy-blazer-hydro.jpg"
+  },
+  {
+    "name": "Damskie buty trekkingowe",
+    "secondName": "Scarpa ZG Trek GTX",
+    "index": 121114,
+    "price": 600,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-scarpa-zg-pro-gtx-dark-coffee-rust_6.jpg"
+  },
+  {
+    "name": "Damskie buty górskie",
+    "secondName": "Scarpa Zodiac Tech GTX",
+    "index": 121115,
+    "price": 800,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/d/a/damskie-buty-gorskie-scarpa-zodiac-tech-gtx-green-blue.jpg"
+  },
+  {
+    "name": "Buty trekking skórzane",
+    "secondName": "Scarpa Delta GTX",
+    "index": 121116,
+    "price": 900,
+    "type": "shoes_woman_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/c/scarpa-delta-gtx-damskie-buty-trekkingowe-testa-di-moro.jpg"
+  },
+  {
+    "name": "Męskie buty trekkingowe",
+    "secondName": "Salomon Outline GTX",
+    "index": 131111,
+    "price": 400,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-gtx-navy-blazer-indigo-bunting.jpg"
+  },
+  {
+    "name": "Męskie buty trekkingowe",
+    "secondName": "Salomon X Reveal GTX",
+    "index": 131112,
+    "price": 350,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-x-reveal-gtx-phantom-burnt-olive-1579680193.jpg"
+  },
+  {
+    "name": "Męskie buty turystyczne",
+    "secondName": "Salomon Out Pro",
+    "index": 131113,
+    "price": 470,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-salomon-out-pro-cherry-tomato-black-1585032238.jpg"
+  },
+  {
+    "name": "Męskie buty podejściowe",
+    "secondName": "Scarpa Crux",
+    "index": 131114,
+    "price": 500,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-podejsciowe-scarpa-crux-shark-tonic.jpg"
+  },
+  {
+    "name": "Buty podejściowe techniczne",
+    "secondName": "Scarpa Zodiac",
+    "index": 131115,
+    "price": 550,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/techniczne-buty-podejsciowe-scarpa-zodiac-tonic.jpg"
+  },
+  {
+    "name": "Męskie buty podejściowe",
+    "secondName": "Scarpa Mojito Fresh",
+    "index": 131116,
+    "price": 400,
+    "type": "shoes_man_low",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-scarpa-mojito-fresh-grey_6.jpg"
+  },
+  {
+    "name": "Męskie buty trekkingowe",
+    "secondName": "Salomon X Ultra MID 3 Aero",
+    "index": 141111,
+    "price": 450,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-x-ultra-mid-3-aero-peat-bungee-cord-1579618258.jpg"
+  },
+  {
+    "name": "Męskie buty górskie",
+    "secondName": "Salomon OUTback 500 GTX",
+    "index": 141112,
+    "price": 530,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-gorskie-salomon-outback-500-gtx-quiet-shade-navy-blazer.jpg"
+  },
+  {
+    "name": "Męskie buty turystyczne",
+    "secondName": "Salomon OUTline Mid GTX",
+    "index": 141113,
+    "price": 450,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-salomon-outline-mid-gtx-burnt-olive-citronelle.jpg"
+  },
+  {
+    "name": "Męskie buty trekkingowe",
+    "secondName": "Scarpa ZG Trek GTX",
+    "index": 141114,
+    "price": 650,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/s/c/scarpa-buty-trekkingowe-zg-trek-gtx-ottano-gray_6.jpg"
+  },
+  {
+    "name": "Buty skórzane trekkingowe",
+    "secondName": "Scarpa Kailash Pro GTX",
+    "index": 141115,
+    "price": 800,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-trekkingowe-scarpa-kailash-pro-gtx-ebony-1586327812.jpg"
+  },
+  {
+    "name": "Męskie buty górskie",
+    "secondName": "Scarpa Zodiac Tech GTX",
+    "index": 141116,
+    "price": 900,
+    "type": "shoes_man_high",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/b/u/buty-gorskie-scarpa-zodiac-tech-gtx-tonic.jpg"
+  },
+  {
+    "name": "Kubek termiczny",
+    "secondName": "Light My Fire Pack-up-Cup Bio",
+    "index": 11112,
+    "price": 29,
+    "type": "gadgets",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/k/u/kubek-light-my-fire-pack-up-cup-bio-musty-yellow-1574764608.jpg"
+  },
+  {
+    "name": "Kubek zestaw",
+    "secondName": "Light My Fire Re-kit",
+    "index": 11113,
+    "price": 49,
+    "type": "gadgets",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/u/turystyczny-zestaw-light-my-fire-rekit-petroleum-1576228469.jpg"
+  },
+  {
+    "name": "Zestaw misek",
+    "secondName": "Outwell Collaps Bowl Set",
+    "index": 11114,
+    "price": 99,
+    "type": "gadgets",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/z/e/zestaw-misek-outwell-collaps-bowl-set-lime-green_1.jpg"
+  },
+  {
+    "name": "Termos",
+    "secondName": "Esbit Vacuum XL 2.1L",
+    "index": 11115,
+    "price": 149,
+    "type": "gadgets",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/termos-esbit-vacuum-xl_26.jpg"
+  },
+  {
+    "name": "Termos",
+    "secondName": "Esbit Iso Vacuum Flask 0.75L",
+    "index": 11116,
+    "price": 89,
+    "type": "gadgets",
+    "image": "https://8a.pl/media/catalog/product/cache/0ca9578c19e44dcc902a2893c0d300b8/t/e/termos-esbit-iso-vacuum-flask-0-75l.jpg"
+  },
+  {
+    "name": "Mapa Tatry",
+    "secondName": "Mapa turystyczna plus przewodnik",
+    "index": 11117,
+    "price": 19,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/tatry-mapa-turystyczna-1-27-000-b-iext39225863.jpg"
+  },
+  {
+    "name": "Mapa Bieszczady",
+    "secondName": "Mapa turystyczna plus przewodnik",
+    "index": 11118,
+    "price": 19,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/bieszczady-mapa-turystyczna-1-65-000-b-iext36578244.jpg"
+  },
+  {
+    "name": "Mapa Pieniny",
+    "secondName": "Mapa turystyczna plus przewodnik",
+    "index": 11119,
+    "price": 19,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/gorce-i-pieniny-mapa-turystyczna-1-50-000-b-iext44536894.jpg"
+  },
+  {
+    "name": "Kurtyka. Sztuka wolności",
+    "secondName": "Bernadette McDonald",
+    "index": 11120,
+    "price": 35,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/kurtyka-sztuka-wolnosci-b-iext51926908.jpg"
+  },
+  {
+    "name": "K. Wielicki. Piekło mnie nie chciało",
+    "secondName": "Kortko Dariusz, Pietraszewski Marcin",
+    "index": 11121,
+    "price": 37,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/krzysztof-wielicki-pieklo-mnie-nie-chcialo-b-iext55336469.jpg"
+  },
+  {
+    "name": "Ja, pustelnik. Autobiografia",
+    "secondName": "Pustelnik Piotr, Trybalski Piotr",
+    "index": 11122,
+    "price": 36,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/ja-pustelnik-autobiografia-b-iext50791189.jpg"
+  },
+  {
+    "name": "Spod zamarzniętych powiek",
+    "secondName": "Szczepański Dominik, Bielecki Adam",
+    "index": 11123,
+    "price": 39,
+    "type": "gadgets",
+    "image": "https://ecsmedia.pl/c/spod-zamarznietych-powiek-b-iext47546058.jpg"
+  }
 ]
