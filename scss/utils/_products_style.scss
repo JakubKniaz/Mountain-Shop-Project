@@ -13,6 +13,10 @@
   }
   .main-products {
     display: inline-block;
+    &:hover {
+      cursor: pointer;
+      opacity: 0.65;
+    }
   }
   .products-item {
     background: white;
